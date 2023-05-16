@@ -1,0 +1,261 @@
+[
+    {
+        "cost": 81000000,
+        "name": "Zakum",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/zakum.png",
+        "id": "chaos_zakum"
+    },
+    {
+        "cost": 95062500,
+        "name": "Magnus",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/magnus.png",
+        "id": "hard_magnus"
+    },
+    {
+        "cost": 56250000,
+        "name": "Hilla",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/hilla.png",
+        "id": "hard_hilla"
+    },
+    {
+        "cost": 132250000,
+        "name": "Papulatus",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/papulatus.png",
+        "id": "chaos_papulatus"
+    },
+    {
+        "cost": 81000000,
+        "name": "Pierre",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/pierre.png",
+        "id": "chaos_pierre"
+    },
+    {
+        "cost": 81000000,
+        "name": "Von Bon",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/von_bon.png",
+        "id": "chaos_von_bon"
+    },
+    {
+        "cost": 81000000,
+        "name": "Crimson Queen",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/crimson_queen.png",
+        "id": "chaos_crimson_queen"
+    },
+    {
+        "cost": 105062500,
+        "name": "Vellum",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/vellum.png",
+        "id": "chaos_vellum"
+    },
+    {
+        "cost": 64000000,
+        "name": "Pink Bean",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/pink_bean.png",
+        "id": "chaos_pink_bean"
+    },
+    {
+        "cost": 45562500,
+        "name": "Cygnus",
+        "difficulty": "Easy",
+        "iconSrc": "assets/images/bosses/cygnus.png",
+        "id": "easy_cygnus"
+    },
+    {
+        "cost": 72250000,
+        "name": "Cygnus",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/cygnus.png",
+        "id": "normal_cygnus"
+    },
+    {
+        "cost": 162562500,
+        "name": "Lotus",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/lotus.png",
+        "id": "normal_lotus"
+    },
+    {
+        "cost": 370265500,
+        "name": "Lotus",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/lotus.png",
+        "id": "hard_lotus"
+    },
+    {
+        "cost": 169000000,
+        "name": "Damien",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/damien.png",
+        "id": "normal_damien"
+    },
+    {
+        "cost": 351562500,
+        "name": "Damien",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/damien.png",
+        "id": "hard_damien"
+    },
+    {
+        "cost": 171610000,
+        "name": "G. Angel Slime",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/guardian_angel_slime.png",
+        "id": "normal_guardian_angel_slime"
+    },
+    {
+        "cost": 451562500,
+        "name": "G. Angel Slime",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/guardian_angel_slime.png",
+        "id": "chaos_guardian_angel_slime"
+    },
+    {
+        "cost": 175562500,
+        "name": "Lucid",
+        "difficulty": "Easy",
+        "iconSrc": "assets/images/bosses/lucid.png",
+        "id": "easy_lucid"
+    },
+    {
+        "cost": 203062500,
+        "name": "Lucid",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/lucid.png",
+        "id": "normal_lucid"
+    },
+    {
+        "cost": 400000000,
+        "name": "Lucid",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/lucid.png",
+        "id": "hard_lucid"
+    },
+    {
+        "cost": 191275000,
+        "name": "Will",
+        "difficulty": "Easy",
+        "iconSrc": "assets/images/bosses/will.png",
+        "id": "easy_will"
+    },
+    {
+        "cost": 232562500,
+        "name": "Will",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/will.png",
+        "id": "normal_will"
+    },
+    {
+        "cost": 441000000,
+        "name": "Will",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/will.png",
+        "id": "hard_will"
+    },
+    {
+        "cost": 248062500,
+        "name": "Gloom",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/gloom.png",
+        "id": "normal_gloom"
+    },
+    {
+        "cost": 462250000,
+        "name": "Gloom",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/gloom.png",
+        "id": "chaos_gloom"
+    },
+    {
+        "cost": 447600000,
+        "name": "Verus Hilla",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/verus_hilla.png",
+        "id": "normal_verus_hilla"
+    },
+    {
+        "cost": 552250000,
+        "name": "Verus Hilla",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/verus_hilla.png",
+        "id": "hard_verus_hilla"
+    },
+    {
+        "cost": 264062500,
+        "name": "Darknell",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/darknell.png",
+        "id": "normal_darknell"
+    },
+    {
+        "cost": 484000000,
+        "name": "Darknell",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/darknell.png",
+        "id": "hard_darknell"
+    },
+    {
+        "cost": 2500000000,
+        "name": "Black Mage",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/black_mage.png",
+        "id": "hard_black_mage"
+    },
+    {
+        "cost": 10000000000,
+        "name": "Black Mage",
+        "difficulty": "Extreme",
+        "iconSrc": "assets/images/bosses/black_mage.png",
+        "id": "extreme_black_mage"
+    },
+    {
+        "cost": 668437500,
+        "name": "Chosen Seren",
+        "difficulty": "Normal",
+        "iconSrc": "assets/images/bosses/chosen_seren.png",
+        "id": "normal_chosen_seren"
+    },
+    {
+        "cost": 756250000,
+        "name": "Chosen Seren",
+        "difficulty": "Hard",
+        "iconSrc": "assets/images/bosses/chosen_seren.png",
+        "id": "hard_chosen_seren"
+    },
+    {
+        "cost": 3025000000,
+        "name": "Chosen Seren",
+        "difficulty": "Extreme",
+        "iconSrc": "assets/images/bosses/chosen_seren.png",
+        "id": "extreme_chosen_seren"
+    },
+    {
+        "cost": 1000000000,
+        "name": "Kalos",
+        "difficulty": "Chaos",
+        "iconSrc": "assets/images/bosses/kalos.png",
+        "id": "chaos_kalos_the_guardian"
+    },
+    {
+        "cost": 81000000,
+        "name": "Princess No",
+        "difficulty": "",
+        "iconSrc": "assets/images/bosses/princess_no.png",
+        "id": "princess_no"
+    },
+    {
+        "cost": 144000000,
+        "name": "Akechi Mitsuhide",
+        "difficulty": "",
+        "iconSrc": "assets/images/bosses/akechi_mitsuhide.png",
+        "id": "normal_akechi_mitsuhide"
+    }
+]

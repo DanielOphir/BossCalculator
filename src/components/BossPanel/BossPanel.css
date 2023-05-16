@@ -1,0 +1,68 @@
+.bosses_container {
+    max-height: 400px;
+    overflow-y: auto;
+    width: max-content;
+    background: radial-gradient(#fff 50%, #d6d6d6 200%);
+    border-radius: 12px;
+    padding: 10px;
+    margin-top: 3px;
+}
+
+.bosses_container::-webkit-scrollbar {
+  width: 10px;
+  padding: 20px;
+  margin-left: 20px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.bosses_container::-webkit-scrollbar-track {
+  background: #cecece;
+  border-radius: 16px;
+  
+}
+
+.bosses_container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 12px;
+  /* border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px; */
+}
+
+.bosses_container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.boss_panel {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    margin: 100px;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 12px;
+    padding: 6px
+}
+
+.collector_container {
+    background-image: radial-gradient(#fff 50%, #d6d6d6 200%);
+    height: 85px;
+    border-radius: 12px;
+    margin-bottom: 3px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.collector_container::after {
+    background-image: url('/public/assets/npc/collector.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    content: "";
+    width: 100%;
+    height: 100px;
+    display: block;
+    position: absolute;
+    left: -20px;
+    top: -10px;
+}
