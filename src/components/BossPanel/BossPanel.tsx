@@ -8,7 +8,7 @@ const BossPanel = () => {
 
   const [bosses, setBosses] = useState<IBoss[]>([]);
 
-  const { handleInputCheck, mesoSum } = useBossPanel();
+  const { handleInputCheck, mesoSum } = useBossPanel(bosses);
 
   useEffect(() => {
     fetch("data/data.json")

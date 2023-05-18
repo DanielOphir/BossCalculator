@@ -1,0 +1,49 @@
+.dropdown_container{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown_input {
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+    font-family: inherit;
+    display: inline-block;
+    padding: 0;
+    border-bottom: 1px solid #ffffff;
+    margin-inline-end: 4px;
+    cursor: pointer;
+    color: inherit;
+    line-height: 1;
+}
+
+.dropdown_list{
+    padding: 6px 0;
+    margin: 0;
+    list-style: none;
+    background-color: #ffffff;
+    position: absolute;
+    z-index: 1;
+    border: 1px solid #ccc;
+    top: calc(100% + 2px);
+    border-radius: 4px;
+}
+
+.dropdown_list_item:hover{
+    background-color: #eee;
+}
+
+
+.dropdown_list_item_button{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color: inherit;
+    border: 0;
+    font-size: 16px;
+    font-family: inherit;
+    cursor: pointer;
+    width: 100%;
+    padding: 2px 12px;
+    text-align: start;
+}
