@@ -1,16 +1,13 @@
 import { useState, FormEvent } from 'react'
 
-const useBossPartySize = () => {
+const useBossPartySize = (onPartySizeChangeHandler: Function) => {
 
-    const [checked, setChecked] = useState("1");
 
-    const onInputChange = (event: FormEvent<HTMLInputElement>) => {
-        const value = (event.target as HTMLInputElement).value
-        setChecked(value);
+    const onInputChange = (value: number) => {
+        onPartySizeChangeHandler(value);
     }
 
     return {
-        checked,
         onInputChange
     }
 }

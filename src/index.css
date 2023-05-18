@@ -7,5 +7,46 @@
 body {
   margin: 0;
   font-family: 'Poppins';
-  background-image: url("/public/assets/background/background.png");
+
+  background-image: url("/public/assets/background/soil.png"),
+                    url("/public/assets/background/grass.png"),
+                    url("/public/assets/background/tree.png"),
+                    url("/public/assets/background/5.png"),
+                    url("/public/assets/background/3.png"),
+                    url('/public/assets/background/2.png'),
+                    url('/public/assets/background/1.png'),
+                    url('/public/assets/background/clouds.png'),
+                    url("/public/assets/background/10.png"),
+                    url("/public/assets/background/9.png");
+
+  background-repeat: repeat-x,
+                     repeat-x,
+                     no-repeat,
+                     repeat-x,
+                     repeat-x,
+                     no-repeat,
+                     repeat-x,
+                     repeat,
+                     repeat-x,
+                     repeat;
+
+  background-position: 0 100%,
+                       0 calc(100% - 60px),
+                       calc(100% - 20px) calc(100% - 90px),
+                       0 calc(100% - 40px),
+                       0 100%,
+                       50% 100%,
+                       0 100%,
+                       0 0,
+                       0 100%,
+                       0 0;
+
+  background-size: auto, auto, 500px auto, auto, auto, auto, auto, auto, auto, auto;
+  min-height: 100vh;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    background-size: auto, auto, auto, auto, auto, auto, auto, auto, auto, auto;
+  }
 }
